@@ -1,4 +1,4 @@
-# 👋 Hey there, I'm PrashanthXD!
+# 👋 Hey there, I'm Prashanth J!
 
 ![Cyber Security](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=PrashanthXD%20🛡️&fontSize=50&fontAlignY=40&desc=Cyber%20Security%20%7C%20Full%20Stack%20Dev&descAlignY=60)
 
