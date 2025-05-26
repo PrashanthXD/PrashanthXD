@@ -1,6 +1,6 @@
 # 👋 Hey there, I'm Prashanth J!
 
-![Cyber Security](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=PrashanthXD%20🛡️&fontSize=50&fontAlignY=40&desc=Cyber%20Security%20%7C%20Full%20Stack%20Dev&descAlignY=60)
+![Cyber Security]([https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=PrashanthXD%20🛡️&fontSize=50&fontAlignY=40&desc=Cyber%20Security%20%7C%20Full%20Stack%20Dev&descAlignY=6](https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&text=Prashanth%20J&textBg=false&section=footer))
 
 ## 🕵️‍♂️ Cyber Security Sleuth & 🌐 Full Stack Magician
 
